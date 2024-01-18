@@ -1,9 +1,10 @@
+import Image from 'next/image'
 import React from 'react'
 
 export default function about() {
   return (
     <main>
-        hello
+    <Image></Image>
     </main>
   )
 }
